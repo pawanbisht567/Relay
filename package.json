@@ -28,5 +28,8 @@
     "husky": "^9.1.7",
     "prettier": "^3.7.4",
     "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "@pawanbisht567/jobber-shared": "^1.0.0"
   }
 }
